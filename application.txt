@@ -1,3 +1,5 @@
 Product Catalog
 - Product listing is available.
 - Product name and price are displayed.
+- Product category is displayed.
+- Product availability status is displayed.
